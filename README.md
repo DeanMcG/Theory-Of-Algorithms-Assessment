@@ -16,15 +16,3 @@ A jupyter notebook containing definitions and explanations of the post correspon
 
 A jupyter notebook containing an overview of what the countdown number game is and it's ruleset, a discussion of the complexity of the countdown numbers game, and a python function that solves the countdown numbers problem using a functional programming style.
 
-### `Dockerfile & docker-compose.yml`
-
-A docker set up to allow the user to quickly run the notebooks with minimal configuration.
-
-### `Images`
-
-
-
-
-## References:
-
-\*Markdown in Jupyter: (https://www.datacamp.com/community/tutorials/markdown-in-jupyter-notebook)
